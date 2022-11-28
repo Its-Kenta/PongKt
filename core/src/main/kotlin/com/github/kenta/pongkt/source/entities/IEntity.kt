@@ -1,11 +1,8 @@
 package com.github.kenta.pongkt.source.entities
 
-import com.badlogic.gdx.Gdx
-import com.badlogic.gdx.Input
-import com.badlogic.gdx.math.Intersector
+
 import com.badlogic.gdx.math.Rectangle
 import com.badlogic.gdx.math.Vector2
-import com.github.kenta.pongkt.source.scenes.serveNumber
 
 // Defining components.
 // Internal components -- START

@@ -1,12 +1,10 @@
 package com.github.kenta.pongkt.source.scenes
 
-import com.badlogic.gdx.Game
 import com.badlogic.gdx.Gdx
 import com.badlogic.gdx.Input
 import com.badlogic.gdx.graphics.OrthographicCamera
 import com.badlogic.gdx.graphics.g2d.PolygonSpriteBatch
 import com.badlogic.gdx.math.Vector2
-import com.github.kartograf.pongkt.source.entities.*
 import com.github.kenta.pongkt.source.utils.AssetManager
 import com.github.kenta.pongkt.source.utils.AssetManager.region
 import com.github.kenta.pongkt.source.utils.Utils.changeBackgroundColor
